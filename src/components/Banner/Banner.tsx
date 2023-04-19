@@ -16,9 +16,9 @@ const Banner = () => {
           Special programs that we provide for those of you who want to have a
           healthy and ideal body. Free to choose according to your goals!
         </BannerDetails>
-        <StyledButton primary={true}>
+        {/* <StyledButton primary={true}>
           Join Now <ArrowIcon />
-        </StyledButton>
+        </StyledButton> */}
       </BannerCTA>
     </BannerContainer>
   );

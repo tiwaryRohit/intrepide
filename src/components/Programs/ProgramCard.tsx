@@ -18,9 +18,9 @@ const ProgramCard = ({ img, title, details, imgStart, line }) => {
       <CardDetails>
         <SectionCardTitle>{title}</SectionCardTitle>
         <SectionCardDetails>{details}</SectionCardDetails>
-        <StyledButton>
+        {/* <StyledButton>
           Learn More <PlayIcon />
-        </StyledButton>
+        </StyledButton> */}
       </CardDetails>
     </StyledCard>
   );

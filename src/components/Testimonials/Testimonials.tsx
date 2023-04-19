@@ -64,8 +64,7 @@ const Testimonials = () => {
             </TestimonialAvatars>
             <TestimonialArrows>
               <IconContext.Provider value={iconStyle}>
-                <ArrowPrev />
-                <ArrowNext />
+                
               </IconContext.Provider>
             </TestimonialArrows>
           </TestimonialDetailsCTA>

@@ -21,9 +21,9 @@ export const AboutCard = ({ img, title, subTitle, details, imgStart }) => {
         <SubTitle>{subTitle}</SubTitle>
         <SectionCardTitle>{title}</SectionCardTitle>
         <SectionCardDetails>{details}</SectionCardDetails>
-        <SectionLink>
+        {/* <SectionLink>
           Learn More <Arrow />
-        </SectionLink>
+        </SectionLink> */}
       </CardDetails>
     </StyledCard>
   );

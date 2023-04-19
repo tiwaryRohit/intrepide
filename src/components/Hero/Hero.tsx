@@ -30,12 +30,12 @@ const Hero = () => {
           the most out of each exercise.
         </MainDescription>
         <MainButtons>
-          <StyledButton primary={true}>
+          {/* <StyledButton primary={true}>
             Get Started <ArrowIcon />
           </StyledButton>
           <StyledButton>
             Learn More <PlayIcon />{' '}
-          </StyledButton>
+          </StyledButton> */}
         </MainButtons>
       </MainDetails>
 
